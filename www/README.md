@@ -1,4 +1,4 @@
-# Welcome to Onsen UI 2!
-
-This template is using Onsen UI, a HTML5 framework that is focusing on the speed and ease of use.
-For details, please check out [Onsen UI Website](http://onsenui.io) and [the documents](http://onsenui.io/v2/).
+株式会社ステップワン様との企業連携にて作成。
+ESP-WROOM-02とシリアルカメラを用いて
+Monacaアプリ内から鉄道模型に取り付けたカメラの写真を1秒置きに確認
+及び、鉄道模型の速度の変更を行える。
